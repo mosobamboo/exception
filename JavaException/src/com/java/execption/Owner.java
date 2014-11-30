@@ -2,6 +2,12 @@ package com.java.execption;
 
 import java.util.List;
 
+/**
+ * owner model
+ * 
+ * @author jiazhong
+ *
+ */
 public class Owner {
 	
 	public String name;
